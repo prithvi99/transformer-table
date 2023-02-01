@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transformer-table/static/css/main.61cb3145.css",
+    "main.js": "/transformer-table/static/js/main.8e6e05b0.js",
+    "index.html": "/transformer-table/index.html",
+    "main.61cb3145.css.map": "/transformer-table/static/css/main.61cb3145.css.map",
+    "main.8e6e05b0.js.map": "/transformer-table/static/js/main.8e6e05b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61cb3145.css",
+    "static/js/main.8e6e05b0.js"
+  ]
+}
