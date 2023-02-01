@@ -1,0 +1,60 @@
+
+[
+    {
+        "id": 0,
+        "value": "American Mahogany",
+        "color": "#774319",
+        "price": 245,
+        "images": [
+          { "src": "https://i.imgur.com/nH9jbZm.jpg" },
+          { "src": "https://i.imgur.com/v3yVRIE.jpg" },
+          { "src": "https://i.imgur.com/wiCPnCx.jpg" }
+        ] 
+    },
+    {
+        "id": 1,
+      "value": "Siberian Birch",
+      "color": "#727675",
+      "price": 245,
+      "images": [
+        { "src": "https://i.imgur.com/KmmcZ0n.jpg" },
+        { "src": "https://i.imgur.com/42pDjdQ.jpg" },
+        { "src": "https://i.imgur.com/gPqx6xH.jpg" }
+      ] 
+    },
+    {
+        "id": 2,
+      "value": "Canadian Dark Oak",
+      "color": "#2A2B2F",
+      "price": 245,
+        "images": [
+          { "src": "https://i.imgur.com/SrBV7QF.jpg" },
+          { "src": "https://i.imgur.com/JwtlPDW.jpg" },
+          { "src": "https://i.imgur.com/IgffGCL.jpg" }
+        ] 
+    },
+    {
+        "id": 3,
+      "value": "Australian Acacia",
+      "color": "#FCD699",
+      "price": 245,
+        "images": [
+          { "src": "https://i.imgur.com/g5kFoy6.jpg" },
+          { "src": "https://i.imgur.com/aQpVAIl.jpg" },
+          { "src": "https://i.imgur.com/GY7SWnt.jpg" }
+        ] 
+    },
+    {
+        "id": 4,
+      "value": "Farmhouse White",
+      "color": "#D4D0CD",
+      "price": 245,
+        "images": [
+          { "src": "https://i.imgur.com/ZqFDDUd.jpg" },
+          { "src": "https://i.imgur.com/0CLsMV1.jpg" },
+          { "src": "https://i.imgur.com/MnTZred.jpg" }
+        ] 
+    }
+]
+
+

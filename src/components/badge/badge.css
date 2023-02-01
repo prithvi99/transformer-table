@@ -1,0 +1,16 @@
+.circle{
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #cf4545;
+    display: flex;
+    justify-content: center;
+    right: -30px;
+    position: relative;
+}
+.count{
+    color: #fff;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

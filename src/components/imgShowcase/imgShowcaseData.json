@@ -1,0 +1,26 @@
+[
+    {
+        "h2": "Stackable and stylish chairs",
+        "p" : "Built and designed to fit perfectly with our Transformer Tables and Sets, the Transformer Chairs will be a beautiful addition to your dining Set. In addition, they are also complete stackable and easily storable.",
+        "src": "https://i.imgur.com/LqObFZH.png",
+        "row_alignment": "row"
+    },
+    {
+        "h2": "Durable for everyday use",
+        "p" : "Transformer Chairs have been designed to last the test of time. Built from a solid wood structure and high resistant waterproof fabric, Transformer chairs can withstand extensive daily use.",
+        "src": "https://i.imgur.com/lwLDygX.png",
+        "row_alignment": "row-reverse"
+    },
+    {
+        "h2": "Comfortable and ergonomic",
+        "p" : "When designing our Transformer chairs, ergonomics and comfort was at the centerfold of their design. Its slick look and comfortable ergonomics will be the perfect addition to your daily meals around your Transformer table.",
+        "src": "https://i.imgur.com/io4NYiA.png",
+        "row_alignment": "row"
+    },
+    {
+        "h2": "Stain resistant and easy to clean",
+        "p" : "All Transformer Chairs are build with high resistant fabric and is layered with waterproof and stainproof guard. No matter what happens to them, they will always look like you just received them.",
+        "src": "https://i.imgur.com/53T45IJ.png",
+        "row_alignment": "row-reverse"
+    }
+]

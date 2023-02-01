@@ -1,0 +1,20 @@
+.home{
+    /* display: flex;
+    flex-direction: column; */
+    background-color: #F3F3F3;
+}
+
+.heading{
+    padding-top: 40px;
+    padding-bottom: 0px;
+    /* margin-top: 25%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading >h1{
+    color: #1b1b1b;
+    font-size: 72px;
+
+}

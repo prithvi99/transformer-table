@@ -1,0 +1,177 @@
+.section{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.sectionContainer{
+    max-width: 1280px;
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    box-shadow: 0px 11px 53px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 11px 53px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 11px 53px -6px rgba(0,0,0,0.75);
+}
+.topProductSection{
+    display: flex;
+    background-color: #1b1b1b;
+    color: white;
+    flex: .6;
+}
+
+.leftProductSection{
+    padding: 50px;
+    flex: .5;
+}
+
+.h2ProductSection{
+    font-size: 36px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.diffColor{
+    color: #cf4545;
+}
+
+.h2ProductSection > p {
+    font-size: 16px;
+}
+
+.leftProductSection > h2{
+    font-size: 24px;
+    color: #cf4545;
+    font-weight: 700;
+}
+.iconsProductSection{
+    align-items: center;
+
+    display: flex;
+}
+.iconProductSection{
+    font-size: 40px;
+    padding-right: 5px;
+}
+.iconProductSectionDesc{
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+.buttons{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.buttons > button {
+    border-radius: 9999px;
+    border-width: 2px;
+    display: inline-block;
+    font-size: .875rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    text-align: center;
+    text-transform: uppercase;
+    transition-duration: .15s;
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    padding: 0.75rem 1.5rem;
+    background-color: #CD4545;
+    color: white;
+    border-color: #CD4545;
+    margin-right: 20px;
+}
+.buttons > button:hover{
+    background-color: transparent;
+    border-color: #CD4545;
+    color: #CD4545;
+    cursor: pointer;
+}
+.buttons > p{
+    color: #cf4545;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+
+
+
+.rightProductSection{
+    flex: .5;
+}
+.rightImgText{
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rightImgText > p{
+    font-size: 20px;
+    font-weight: 700;
+}
+.redBg{
+    background-color: #cf4545;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.chairsBanner{
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+}
+
+.bottomProductSection{
+    display: flex;
+    flex: .4;
+    background-color: #fff;
+}
+
+.bottomImages{
+    display: flex;
+    flex-direction: column;
+    flex: .25;
+    border-right: 2px solid #F3F3F3;
+}
+
+.imgContainer{
+    flex: .5;
+    height: 150px;
+}
+
+.bottomImg{
+    max-width: 159px;
+    max-height: 159px;
+    background-size: cover;
+    padding-left: 80px;
+    padding-right: 80px;
+    
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    flex: .5;
+    padding: 20px;
+    align-items: center;
+    
+}
+
+.description > h2, p {
+    margin: 5px;
+}
+
+.description> h2{
+    font-size: 20px;
+    font-weight: 700;
+}

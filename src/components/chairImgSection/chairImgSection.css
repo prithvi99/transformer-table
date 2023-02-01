@@ -1,0 +1,38 @@
+.chairImgSection{
+    flex: .7;
+    padding-right: 40px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    padding-bottom: 20px;
+}
+.activeImage{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    margin-bottom: 10px;
+    max-width: 100%;
+}
+.displayImg{
+    max-width: 100%;
+}
+.allImages{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgArrows{
+    font-size: 36px;
+    background-color: #cf4545;
+    color: #fff;
+    cursor: pointer;
+}
+.allImagesContainer{
+    height: 100px;
+    margin: 20px;
+    
+}
+.allBottomImages{
+    height: 100%;
+    width: 100%;
+}

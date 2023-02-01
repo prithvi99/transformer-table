@@ -1,0 +1,62 @@
+[
+    {
+        "topProducts":{
+            "productName": "Transformer Chairs",
+            "productDescription": "Our long-awaited stackable chairs are here! Designed to perfectly match our Transformer Table, these are ideal to complete your set.",
+            "productPrice": "$245 CAD",
+            "productBanner": "https://i.imgur.com/FwvGyb8.png"
+    },
+        "bottomProducts": [
+            {
+                "src": "https://i.imgur.com/QeNXIHF.jpg",
+                "productH2": "Stackability",
+                "productDesc": "Store them away effortlessly."
+            },
+            {
+                "src": "https://i.imgur.com/KmmcZ0n.jpg",
+                "productH2": "Strength",
+                "productDesc": "Each chair can hold 400lbs."
+            },
+            {
+                "src": "https://i.imgur.com/g5kFoy6.jpg",
+                "productH2": "Quality",
+                "productDesc": "FSC-certified solid wood."
+            },
+            {
+                "src": "https://i.imgur.com/zIqJqhX.jpg",
+                "productH2": "Comfort",
+                "productDesc": "Ergonomic for daily use."
+            }
+        ]
+    },
+    {
+        "topProducts":{
+            "productName": "Transformer Table",
+            "productDescription": "Discover our unique collection which features the only dining table of its kind made of FSC-certified solid wood and effortlessly extends to six different sizes to accomodate small spaces & large groups alike.",
+            "productPrice": "2099.00 CAD",
+            "productBanner": "https://i.imgur.com/PN632YL.png"
+    },
+        "bottomProducts": [
+             {
+                "src": "https://i.imgur.com/Yz8uK8G.jpg",
+                "productH2": "Durability",
+                "productDesc": "Easy to clean and maintain."
+            },
+            {
+                "src": "https://i.imgur.com/baUvNTw.jpg",
+                "productH2": "Strength",
+                "productDesc": "Withstands up to 750lbs."
+            },
+             {
+                "src": "https://cdn.shopify.com/s/files/1/0012/6995/6726/files/table-top-view-mechanism.webp?v=1668587417&width=1500",
+                "productH2": "Quality",
+                "productDesc": "Made of FSC-certified solid wood."
+            },
+            {
+                "src": "https://cdn.shopify.com/s/files/1/0012/6995/6726/files/table-front-view.webp?v=1668587417&width=1500",
+                "productH2": "Versatility",
+                "productDesc": "Extends to suit your needs."
+            }
+        ]
+    }
+]

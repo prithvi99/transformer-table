@@ -1,0 +1,25 @@
+.qualities{
+    margin: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+
+.qualitiesContainer{
+    display: flex !important;
+    align-items: center;
+    background-color: #fff;
+    padding: 40px;
+    max-width: 1280px;
+    /* -webkit-box-shadow: 2px 5px 32px -2px rgba(0,0,0,0.69); 
+    box-shadow: 2px 5px 32px -2px rgba(0,0,0,0.69); */
+}
+.quality{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.qualitiesIcon{
+    font-size: 42px;
+}

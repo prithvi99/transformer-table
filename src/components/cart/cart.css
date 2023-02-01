@@ -1,0 +1,134 @@
+.cart{
+    height: 100vh;
+    width: 100vw;
+    background-color: #fff;
+    background-color: rgba(255,255,255,0.75);
+    position: absolute;
+}
+
+.cartContainer{
+    height: 100vh;
+    width: 30%;
+    z-index: 999;
+    /* position: relative; */
+    background-color: #fff;
+    right: 0;
+    padding: 10px;
+    background-color: #f3f3f3 !important;
+    margin-left: 69%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.topCartSection{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    padding-bottom: 40px;
+}
+.cartHeading{
+    font-size: 24px;
+    font-weight: 700;
+}
+.cartIcon{
+    font-size: 24px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+
+.middleCartSection{
+    display: flex;
+    flex-direction: column;
+    
+}
+.middleCartTitles{
+    display: flex;
+    justify-content: space-between;
+}
+.middleCartTitles > span{
+    padding: 5px 50px;
+}
+.cartProductSection{
+    overflow-y: scroll;
+}
+.productInCart{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    background-color: #fff;
+    margin: 5px;
+}
+.picImage{
+    height: 100px;
+    width: 200px;
+}
+.productDescription{
+    display: flex;
+    flex-direction: column;
+}
+.productHeading{
+    font-size: 20px;
+    font-weight: 500;
+}
+.productPriceDesc{
+    color: #cf4545;
+    font-size: 18px;
+}
+.quantityDelete{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.selectorCart{
+    margin-right: 20px;
+}
+.quantityDeleteIcon{
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+.producTotaltPrice{
+    font-weight: 400;
+    font-size: 22px;
+}
+
+
+.bottomCartSection{
+    margin-top: 85vh;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.subtotal{
+    display: flex;
+    justify-content: space-between;
+}
+.subtotalHeading{
+    display: flex;
+    flex-direction: column;
+}
+.subtotalHeadingh2{
+    font-size: 18px;
+    font-weight: 500;
+}
+.subtotalPrice{
+    font-size: 20px;
+    color: #cf4545;
+}
+.checkoutBottom{
+    padding-top: 10px;
+}
+.cartButton{
+    width: 100%;
+    height: 40px;
+    border-radius: 99px;
+    color: #fff;
+    background-color: #cf4545;
+    border: none;
+    cursor: pointer;
+}

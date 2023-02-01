@@ -1,0 +1,57 @@
+.fbt{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.fbtContainer{
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fbtProducts{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+.fbtImages{
+    max-width: 100%;
+    height: 300px;
+}
+.fbtIcon{
+    font-size: 24px;
+    padding: 16px;
+}
+.fbtImageInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.fbtPrice{
+    font-size: 20px;
+    color: #cf4545;
+    font-weight: 400;
+}
+.fbtProductTitle{
+    font-size: 24px;
+    font-weight: 500;
+}
+.fbtButton{
+    height: 40px;
+    margin-top: 10px;
+    border: none;
+    background-color: #cf4545;
+    color: #fff;
+}
+.fbtButton:hover{
+    cursor: pointer;
+    background-color: #f3f3f3;
+    color: #cf4545;
+    border: 2px solid #cf4545;
+}

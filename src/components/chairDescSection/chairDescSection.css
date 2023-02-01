@@ -1,0 +1,57 @@
+.chairDescription{
+    flex: .3;
+    display: flex;
+    flex-direction: column;
+}
+.chairDescription > h3{
+    color: #cf4545;
+    font-size: 24px;
+}
+.selector{
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.chairDescription > span{
+    margin-bottom: 20px;
+}
+.selectChairType{
+    display: flex;
+    
+}
+.chairType{
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 99px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.atcButton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 99px;
+    border: none;
+    background-color: #cf4545;
+    height: 50px;
+    color: #fff;
+    cursor: pointer;
+}
+.shipping{
+    display: flex;
+    flex-direction: column;
+    /* align-items: ; */
+}
+.shipping > span{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px 10px 0;
+    font-size: 18px;
+}
+.shippingIcon{
+    font-size: 36px;
+    padding-right: 20px;
+    color: gray;
+}
